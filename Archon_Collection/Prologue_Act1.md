@@ -15,6 +15,7 @@ Updated on 2026/1/29</sub>
 [Knights of Favonius](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#knights-of-favonius)</br>
 [Winds of the Past](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#winds-of-the-past)</br>
 [Sparks Among the Pages](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#sparks-among-the-pages)</br>
+[Crash Course](https://github.com/Genshin-DeepDive/TFTH_Mondstadt/edit/prose/Archon_Collection/Prologue_Act1.md#crash-course)</br>
 
 ## Intro
 Aether drew an image of two stars in the sand of Starfell Beach, as a crab looked on curiously.  Paimon asked, “So... what you're trying to say is that you fell here... from another world?”  Aether happily recalled flying side by side across the vastness of Teyvat with his sibling, Lumine.  “But when you wanted to leave, and go on to the next world, your path was blocked by some unknown god?”  The Traveler nodded, recalling how it happened.
@@ -831,91 +832,369 @@ Aether nodded his thanks, and gave a momentary glance at an ornate wooden clock,
 Paimon also glanced at the clock, her stomach giving a hearty rumble as she wondered about the possibilities of the evening meal.  Aether supposed that a meal and some “light reading” could go hand-in-hand.  A brief trip to Jean’s office for study materials, and then he could treat Paimon to a sticky honey roast… a treat certain to satisfy after an incredibly long day of adventuring, fighting, and misunderstanding.
 
 # Crash Course
-Kaeya will accompany you to explore the temple of the Wolf.
-- Head down easterly path towards Windrise
-- Fight hilichurls, including a potential first-time Wooden Shield Hilichurl Guard
-- See ruins in distance
-- See little girl to right
-- Meet Chloris, Botanist:
-C:	Wow!  I haven’t had any faunal contact in ages!
-A:	Faunal contact?
-C:	My name’s Chloris!  I’m the best botanist in Mondstadt.  I spend all my days out in the wild, among the flora.  Fauna, on the other hand, are somewhat lacking in my life.  So you can always feel free to talk to me.  I’d appreciate the company!
-A:	What about your family?
-C:	You might know my little sister, Flora?  All she cares about is flowers.  She runs a flower shop in the city.  I’m much more open-minded than she is.  I care about all plants, especially strange new ones!  I guess I am the older one, after all.  I do think Flora really could do better if she pushed herself…
-- Find Hilichurl camp and Cryo Hilichurl shooter and Hydro Samachurl
-- See domain in distance; path towards it really worn out, lots of crumbled ruins nearby
-- Really see Cape Oath well from here
-- See Kaeya waiting for you
-- Speak with Kaeya/dialog
-- Enter domain – similar description to other Four Winds temples
-- This domain is also in a deep dark underground space
-- Dialog
-- First time seeing Cryo damage dealt
-- Kaeya Vision Dialog
-- Encounter first flamethrower cores and first Cryo puzzle to stop them
-- Kaeya confirms use of Wind Glider- ride wind current
-- First time seeing Hydro Amber
-- Break hydro amber, douse room in water
-- Fight big pyro slime
-- Kaeya and Paimon dialog
-- Cross spike and water trap using Cryo bridging
-- See Dragon’s Breath
-- Dialog
-- Break Dragon’s Breath
-- Dialog
-- Cutscene
-- We’re sent back to HQ
-- First real encounter with Cryo Abyss Mage
-- Issue with cryo vs cryo
-- Diluc’s first appearance
-- They fight
-- New cutscene
-- Mondstadt returns to normal
-- Dialog
-- QUEST COMPLETE
-- Teleport back to Lynn’s camp teleporter
-- Achieve: “The Outlander Who Caught the Wind”
+Aether awoke rather roughly, feeling both refreshed and disoriented at the same time.  Despite his lodging’s spartan interior, the bed was at least marginally comfortable, and suitable for bleeding away the stress and adrenaline of the past twenty-four hours.  He swung his legs over the side of the bed, giving a momentarily glance at the grandfather clock anchored to the near wall: half past seven.  Not too early, not too late, perfect for more adventuring.
 
-> ### WQ: Welcome to the Adventurers’ Guild
-> - Katheryne from the Adventurers’ Guild has sent you an invitation.
-> - Speak with Swan at Mondstadt gate
-> S:	Hi.  Anything the Knights can do for you?
-> A:	About Stormterror…
-> S:	Stormterror?  One moment, let me try to recall the Knights of Favonius Handbook…  I’m sorry, I don’t remember anything in there that tells us what to do when facing giant dragons.  Oh, but I do remember that > it does mention how to deal with sudden threats:  “When danger is imminent, please do not panic.  Cover your head with both hands, and crouch down to protect your vital parts.”  I think I’ll do as this says…
-> Speak with Lawrence at Mondstadt gate
-> A:	Are there any anecdotes about Monstadt?
-> L:	Anecdotes?  Not sure if this counts as one.  When I’m on my shift here, I’ll sometimes notice the weather change very suddenly.  Um… Rather than a natural phenomenon, it feels like someone is manipulating the weather.  But who has that much power to do that?  Even the higher-ranking knights in the KoF don’t seem to have the ability to do that.  How strange.
-> - If we were to return to Mondstadt at night, we’d see Stanley mumbling by a tree near the blacksmith, our first encounter with him.
-> - Paimon directs our attention to Katheryne/Dialog
-> - Katheryne Dialog
-> - Receive Adventurer’s Handbook
-> - QUEST COMPLETE
+The window in the far corner of the room let in little light, not that there was much to be had, given the swirling storm still lingering overhead.  Stormterror, Aether remembered solemnly.  He and Paimon had been through quite the ordeal in the last day or so, going from mere travelers to participants in a rather dramatic campaign against a raging dragon.  It was all quite sudden… and quite surreal.
 
-> ### WQ: Sharpening the Axe Won’t Hinder the Work
-> - Paimon draws our attention to the blacksmith’s shop
-> - See Wagner, Schulz, and the Blacksmith’s shop
-> - Wagner Dialog
-> - Schulz Dialog
-> S:	Looking to buy a weapon?  You should talk to Wagner.
-> A:	About your master…
-> S:	You’ll have spoken to Wagner before I’m sure?  Bit curt, eh?  I’d be hard-pressed to find a better mentor, though.  Just look at the weapons he makes, a true testament to how hard he works.  As long as there’s mutual respect between us, I can’t ask for more.  To be honest, I think Master would get lonely without me here.  Last time I took a trip back home, for example…  Actually, never mind.  Yeah… Don’t bring that one up with Master.
-> A:	What are you doing?
-> S:	I’m an apprentice.  The name’s Schulz.  Master’s work is pure perfection.  I never tire of watching him work.  I usually help master out with odd jobs on the shop floor.  Getting some downtime, where I can just watch him work his magic, is reward enough for me.
-> A:	Any of your own masterpieces to show me?
-> S:	I have tried… the results are usually less than perfect, tough.  Master normally melts them back down again and redoes them.  There was this one I was quite proud of, but master wouldn’t let me sell it from his shop… said it’d damage his reputation.  So I took it out the side gate and gave it a few swings.  Ended up sticking it in the ground there.  There’s a group of kids who hang out over there, seems to have got them interested.. Anyway, I digress.
-> A:	Anything in the works?
-> S:	Herman wants a sword for his daughter.  I hear him talking about it all the time.  He can’t afford one of Wagner’s, so I figured I’d make one for him myself, for free.  I wouldn’t call it an act of charity, it’s not like my work is worth anything anyway.
-> A:	How goes your forged blades?  Are they worthy of battle?
-> S:	I am far from perfecting my craft, but the blades are better than before.  They’re still not sharp enough, though.  Here, take these.  They should serve well to protect you.  Besides, I cannot give any of them to Herman… I must forge a far better sword, one deemed worthy of Mr. Herman’s kindness.
-> - Mine iron ore from near Lynn’s teleporter
-> - Return to Mondstadt
-> - Startle pigeons, encounter Timmie
-> - Dialog
-> T:	What’re you doing!  You’re scaring the pigeons away!
-> A:	They’ll be back.
-> T:	They do come back usually… but what happens if one day they leave and never come back again?  Just like Daddy…
-> - Return to blacksmith shop
-> - Wagner dialog
-> - First time smelting our own materials
-> - Wagner dialog
-> - Paimon dialog
+The two traveling companions had spent their evening dining on Favonius Headquarters’ rather plebeian rations.  The meals were nourishing, but unsatisfying.  Aether’s promise to gift Paimon with a sticky honey roast feast would have to go unfulfilled another day, at least until the Stormterror crisis subsided.
+
+The side course to their meal was a rather fibrous one, consisting of several thick volumes from Jean’s office.  Just like the meal, they too had been rather nourishing, yet unsatisfying.  Most of them detailed military strategies, nuanced alchemical manuals, studies in materials suitable for defensive structures, religious tomes on proper Barbatos worship… but few held any answers to the Stormterror problem, save one.
+
+The book Lisa had gifted to the Traveler after their tour of the Temple of the Lion had proven surprisingly informative.  Entitled Breeze Amidst the Forest, the two-part piece of prose consisted of a selection of antiquated ballads followed by a rather encyclopedic description of “The Dragon.”  It was this latter section that caught Aether’s attention.
+
+While dining on his meager supper, Aether flipped through a brief history of the Four Winds.  According to the author, the Four Winds of Mondstadt had historically consisted of three individuals strongly linked to Mondstadt’s turbulent past, with the fourth “Wind” being the dragon Dvalin, or “Stormterror” as he was now known.  The Four Winds were known by the monikers “The Wolf,” “The Lion,” “The Falcon,” and “The Wind Dragon.”  The first three were humans—two involved with the liberation of Mondstadt from its oppressors long ago, and the third a latecomer with connections to the spirit that dwelt in Wolvendom to the west.
+
+Dvalin, the Wind Dragon, predated and had outlived them all.  There had apparently been a time when the city was being attacked by a “corrupted dragon” nesting in the snowy peaks of the northern mountains of Mondstadt.  Its reign of terror permitted the survival and success of a great many barbarians and foul creatures.  Mondstadt was hard pressed to find a savior capable of liberating them from their newest tyrant until, almost as in answer to the prayers of the people, the great Anemo Archon Barbatos awoke.  Upon realizing the depth of the people’s despair, Barbatos summoned to his side Dvalin, and proceeded to wage a lengthy campaign against the evils that surrounded Mondstadt, including the corrupted dragon, Durin.
+
+Few details were provided regarding this great campaign, but the consequences were well-documented.  Deep within the ivory snowdrifts of Dragonspine lay Durin’s remains, but the great dragon Dvalin and the savior of the people Barbatos disappeared without a trace.  The people were quick to believe that their prayers had summoned both the Anemo Archon and the Wind Dragon; and if there ever came a time when Mondstadt would again face grave terror, the pair would once again appear, plan in mind and power in hand.  It was a well-believed yet thoroughly unprovable superstition that brought great comfort to Mondstadters in times of stress.
+
+This book was not one of fiction, but still Aether could not seem to connect the Stormterror that had peeled roofs like apple skins to the Dvalin that had dealt Mondstadt’s greatest threat a fatal blow.  The two seemed mutually exclusive; yet, events proved otherwise.  Lisa had mentioned that “hatred” could have driven Dvalin to such acts of rage, but such an explanation felt far too simple, far too convenient for such a crisis of this magnitude.  A hero does not turn tyrant in such short order, unprovoked.  Hatred simmers slowly and agonizingly, and only boils over when enough ill will has risen to the surface.  So where did the ill will come from?  Had Mondstadt neglected its former savior?
+
+Aether had seen the condition of the Temples of the Four Winds.  Most were neglected, worn, dilapidated; but the people of Mondstadt still clung to their belief in Barbatos, and in the Four Winds.  They were simply negligent in their complacency.  Surely such superficial neglect wouldn’t be enough to goad the heroes of legend into rampaging so furiously?
+
+Aether had only been awake for a few minutes, but already the contradictions were giving him a migraine.  He had offered himself up as a willing participant in this campaign against Stormterror, but he was already beginning to harbor doubts about the Knights’ potential for success.
+
+Despite the seriousness of the situation, the Knight with the acid charm whom they had met yesterday, Kaeya, seemed to not be overly concerned.  He had departed Jean’s office yesterday before any of the rest had, but he alone had yet to return.  Despite this concerning fact, not a single Knight, not even Jean, seemed worried about his overnight absence.  This must be par for the course for him, then, Aether thought cynically.
+
+Kaeya had departed for the Temple of the Wolf, located somewhere to the northeast of Windrise, the great tree they had visited yesterday.  This temple was apparently part of a larger ruin complex that used to be known as the Thousand Winds Temple.  It was the third and final location requiring the intervention of the Knights of Favonius, but despite Kaeya’s immediate departure, there were no signs that the situation there had yet been resolved.  Aether and Paimon would have to check in with Kaeya and request an update in person.
+
+Paimon awoke from her restful slumber not too long after Aether.  By this point, he had already departed for the training courtyard adjacent to the Favonius HQ, so Paimon snagged a quick snack and floated down the corridor to catch up.  Once the two had reconvened outside ,and Aether had taken a few hundred swings of his blade as practice, they set off towards the city gates and out into the wilderness.
+
+The easterly path towards the Thousand Winds Temple was much more heavily trodden than the one they had taken to Windrise yesterday.  Aether maintained a brisk pace, the cool early morning mist helping soothe his aching head and mind.  Paimon floated steadily alongside, occasionally struggling to catch up after slowing to pick a berry bush clean or pluck ripe Sunsettia fruits from trees.  She was certain that the previous evening’s meager meal hadn’t done the Traveler much good, given his current morose silence.  If there was one thing Paimon knew better than any other travel guide, it was that delicious food was the key to a good state of mind.
+
+As the traveling companions crested a small rise near the ancient entrance to the Thousand Winds Temple, they spied a young girl, seemingly of the Paimon mindset, gathering berries and herbs from the various plants lining the trail.  Paimon was immediately enthusiastic to see a fellow berry- and Sunsettia-enjoyer, and flagged the girl down with a hearty wave.
+
+“Oi, hey there!” Paimon shouted gleefully, floating over to see what treats the girl had collected.  The young lady appeared to be wearing navy blue Mondstadt children’s garb, but her presence alone here in the wilderness definitely hinted at her being at least old enough to fend for herself.  Paimon thought it peculiar to see a child this far from the city on her own, but before she could question the child on her parents’ apparent lack of discretion, the child began to babble back at her.
+“Wow!  I haven’t had any faunal contact in ages,” the young gatherer gushed.  Paimon was immediately taken aback by a word that perhaps would have found a better recipient in Lisa or the Traveler… or at least somebody who knew what the little girl was talking about.
+
+“Faunal contact?” she asked, scratching her head innocently.  The little girl ignored the question and continued her fountainous exposition.  The large leaf stuck into the earth-toned beret on the girl’s head bobbed as she spoke.  
+“My name’s Chloris!  I’m the best botanist in Mondstadt.  I spend all my days out in the wild, among the flora.”  Another word Paimon couldn’t quite catch.  “Fauna, on the other hand, are somewhat lacking in my life.  So you can always feel free to talk to me.  I’d appreciate the company!”
+
+Aether chuckled good-naturedly at the young botanist’s enthusiasm.  She was to plants as Paimon was to food, but yet they could not quite understand each other.  Aether took a quick look around before realizing, as Paimon had a moment before, that the adventurous lass was on her own.  “You would, would you?  Who are you out here adventuring with… what about your family?”
+
+The child placed her hands on her hips in firm defiance at the implication that she might require supervision.  “You might know my little sister, Flora?”  Aether noted the rather heavy emphasis on “little,” but nodded all the same.  “All she cares about is flowers.  She runs our flower shop in the city.  I’m much more open-minded than she is; I care about all plants, especially strange new ones!  I guess I am the older one, after all.”  At this point, the youthful plant appreciator was practically leaning on her tip-toes in her efforts to emphasize her age and maturity.  “I really think Flora could do better if she pushed herself…”
+
+It was at this point that the conversation wildly diverted towards Paimon and the girl debating their favorite wild snacks.  Paimon’s preference for the juicy, plump Sunsettia fruit was being challenged by the botanist’s rather odd craving for raw mint.  However, before either could bring in backup to support their arguments, Aether poked Paimon firmly in the shoulder, nodding towards the nearby crumbled ruins of Thousand Winds Temple.  In rather typical fashion, Paimon’s joie de manger had completely distracted her from their pursuits.
+
+Paimon nodded with sudden realization, and waved goodbye to their young new green-thumbed friend, who darted off to a nearby flowering bush with which she would inevitably end up having another fulfilling conversation.  The two travelers parted ways to the east, soon reaching the long shadows cast by the old west wall of the Thousands Winds Temple grounds—and tucked into fallen debris on the other side of the wall, a tiny Hilichurl camp.
+
+There wasn’t much of a camp to speak of: three Hilichurls, one of whom held an extraordinarily oversized staff with a rather disquieting effigy hastily tied to the top.  This Hilichurl’s skin was a dark, oceanic blue, and its mask was larger and more ornate than that of its campmates.  A single cyan “eye” poked from the mouth of the grotesque mask; whether that of its owner or merely decoration, Aether couldn’t discern.  The Hilichurl with the staff seemed to have the full attention and reverence of its fellow Hilichurls, and was giving an extended monologue on some Hilichurian topic, no doubt.  Aether was not going to give it the time to finish its monologue.
+
+Dull sword summoned into his right hand and Anemo energy gathered into his left, he charged brazenly into the tiny campsite.  A few precise strikes were all that was needed to bring down the two Hilichurl campers; the shaman-looking Hilichurl had rushed up a nearby fallen stone pillar, and was preoccupied with waving its staff about in the air.
+
+Aether was about to leap onto the pillar to finish his impromptu sword training session when he was suddenly and unceremoniously doused with rain from the heavens.  He slipped to a muddy halt, glancing skywards, looking for the source of the downpour.  Above had gathered an isolated, oddly localized raincloud, which had proceeded to dump a summer rainstorm’s worth of water on him in but a few seconds.  The morning breeze combined with his soaking wet clothes and skin to leave him rather chilly; unfortunately for the Hilichurl rain-chanter, a little water and mud was not about to stop the Traveler from continuing their journey.
+
+Aether broke free from his hesitation, and leapt to the stone pillar.  A few neat strokes of the sword later, and all that remained of the shaman Hilichurl was its effigy-topped staff.  Before it could decay into dust, Aether crouched down for a closer look at the strange weapon.  The effigy was like nothing he had seen in Teyvat thus far, neither human nor Hilichurl.  He would have to seek answers elsewhere, and was preparing to move on when Paimon saved him the effort and brought the answers to him herself.
+“That must have been a Hydro Samachurl,” she explained.  “Samachurls are Hilichurls especially gifted in commanding the elements, like Hydro, for this one.”  That explained the drenching Aether had received moments ago.  Paimon suddenly appeared rather contemplative.  “What sort of life would lead to such simple creatures being able to summon water and rains?”  Her voice trailed off at the end of the question.  Even if its motivations where still unknowable, Aether at least felt better being able to place a name to an enemy face.
+
+Miniature campsite thus cleared of hostiles, Aether took the time to loot some crates and barrels nearby for travel supplies.  He was even fortunate enough to find a rather decrepit chest behind some moldy crates; it only held a few Mora, but Mora was Mora, as Paimon would have gleefully pointed out.
+
+Beyond the campsite, the trail they had been following vanished into tufts of lush grass, waving in the morning breeze.  The two traveling companions were concerned about being able to follow the broken-up trail when Paimon spotted a figure in the distance.
+“Look, it’s Kaeya up ahead!”  She pointed to a distant Domain entrance, not unlike the previous two Temples of the Four Winds.  Standing in front of the Domain’s great monolithic doors was the charming yet visibly impatient Captain of the Favonius Cavalry.  He appeared unbothered by the chill of the morning eddies whipping through the nearby trees.  Upon spotting the approaching adventurers, Kaeya raised his hand in lazy greeting.  Despite having apparently waited at the Domain for just about half a day, he seemed rather unrushed as he spoke.
+
+“You've arrived.  Come closer.”  He paused to sniff the air cautiously, as though he were a trained bloodhound on the scent.  “Can you smell that?” he asked casually, as though the Traveler should be pinching their nose in discomfort.
+Aether took a gentle sniff of the air, not trusting that Kaeya wasn’t setting him up for something.  All he could detect was the lightly floral scent of Mondstadt’s ever-present fields of lilies.  “I can't smell anything,” he remarked dryly.  Kaeya nearly rolled his eyes in exasperation.  Apparently Aether should have been training his sense of smell to be as acute as his elemental sight.  Kaeya explained his findings anyway.
+
+“Something must have happened in the temple.  I imagine there will be slimes, Hilichurls, and... whatever is giving Stormterror extra power.  Oh yes, it is going to be lively in there indeed!”  Kaeya’s voice finally took on some emotion, for once.  He may as well have rubbed his hands together with glee, given all the subtle emotion he was suddenly showing.  Aether raised an eyebrow curiously.
+
+“Will it be as dangerous as the other two temples?”
+
+Kaeya crossed his arms confidently.  “As bustling as it may be — no, I can't imagine it will be dangerous at all.  No doubt, nothing more than a disorderly mob of creatures.”
+
+Aether summoned his sword in-hand and took several steps towards the Domain entrance.  Kaeya’s gaze followed him, but Kaeya himself remained planted for a moment longer.  He chuckled rather melodramatically before saying, “Oh, ho-ho! You're quite the brave one, aren't you?”  Aether stopped and turned to face Kaeya, seeming rather unamused.  Kaeya placed his arms back at his sides and very slowly and elegantly strolled up to the entrance.
+
+As he placed his hand against the door, preparing to open it, he sighed dramatically.  “It's a pity that the Temple of the Wolf has been disturbed by such an atrocity.”  He paused for effect, then turned to face the two travelers.  “Let's head in, shall we?”
+
+
+Upon arriving into the Domain, Aether immediately noticed Kaeya taking in his surroundings and making quiet mental notes under his breath.  He sighed, this time with an attitude of genuine concern that was oddly out-of-place for the coldly charming Captain.  “No one makes offerings to The Four Winds anymore, yet the old winds never vanish…”  He raised his voice so Aether could properly hear him as he continued,  “We need to clear out the temple, for The Four Winds.  I just realized, this is my first chance to fight beside you.  Think we'll make a good team?  Ah, regardless, let me show you how the Knights of Favonius conquer our adversaries!”
+
+The temple they had entered scarcely differed from the first they had visited with Amber: a great underground cavern, scattered with isolated, towering ruins and monumentally tall stone stalagmites.
+Kaeya was already dashing off into the corridor that lay ahead.  Aether had to put some extra bounce into his step to keep up with the surprisingly quick and agile Knight.  In mere moments, the party had reached a point where the corridor opened into a cavernous room whose ceiling had been obliterated by some great calamity long ago.  Kaeya focused his attention on the ruins just beyond the gaping hole in the roof.
+
+“Hmm, if I'm not mistaken, the end of the temple should be up there,” Kaeya pointed to their destination with his gleaming bronze and gray sword.  Paimon could only see the crumbled remains of a collapsed tower; surely there was no way into the decrepit structure.
+
+“Wait... How do you know?” she asked incredulously.  Kaeya shrugged off the question with an audible grunt.
+
+“Heh, experience,” he answered vaguely.  “The kind of experience you get after years of dealing with things like this for others.”
+
+“Is that experience how you got your eye patch?” Aether asked rather forwardly.
+
+Kaeya shot him a rather sharp look, but his expression softened back to its neutral state almost instantly.  “My eye patch?  Wanna hear my story, eh?  I didn’t have time to introduce myself properly; well, it wasn’t on my mind to begin with.”  Paimon glared at Kaeya with her arms crossed sassily.   Kaeya’s rather facetious personality was beginning to grate on her nerves.  “Ha, my apologies,” he bowed lightly.  “I’m Kaeya, Cavalry Captain for the Knights of Favonius.  We can talk more after we get things sorted.  I know a great place more fit for a chat.”
+
+Aether had no time to agree; Kaeya had barely finished his introduction when he spied a group of of Hilichurls gathered in a partially-submerged basement level below.  He deftly threw himself over the edge, landing in the ankle-deep water with a surprisingly delicate splash.  The Hilichurls spun to face the intruder.  It was impossible to determine whether or not they had been surprised by their adversary, given the nature of their masks, but the sudden draft of frigid wind and ice that burst forth from Kaeya’s free hand certainly must have left them frozen in disbelief.
+
+Kaeya spun with finesse to face the nearest frozen Hilichurl, and with a precise thrust of his blade, reduced the glacial statue to fragmented chunks of ice which quickly melted away into the water.  Neither blood nor ash remained to mark its victim’s passing.
+With lightning-fast subsequent strikes, Kaeya reduced each of the remaining frozen Hilichurls to nothing but thin shavings that would quickly vanish into nothing.  Having accomplished a rather fluid and elegant combo, Kaeya turned to face his two traveling companions.  Aether hadn’t had an opportunity to swing his sword once.  A combination of déjà vu from previous visits to the Four Winds’ Temples in addition to a well-founded belief in Kaeya’s combat abilities had led to Aether more or less letting Kaeya take the lead.
+
+As he jumped down to continue alongside the swordsman, Kaeya pointed to Aether and stated pointedly,  “Traveler, unless I'm mistaken, you don't seem to have a Vision.  So how exactly is it that you're able to channel elemental energy?”
+
+Aether shrugged and scratched his head rather sheepishly.  To this moment he hadn’t given his newfound Anemo powers much consideration.  He was embarrassed to admit that the entire “Elements of Teyvat” concept was alien to him.  His only explanation to Kaeya was, “It was a very strange occurrence.”  Kaeya seemed rather unsatisfied with the vague response, but had no reason to question the Traveler further.  Instead, the group continued ahead into the corridor beyond the submerged plaza.
+
+Just around the corner from where they had conversed, they discovered a fenced-in atrium in which sat two great metal cylinders.  The cylinders guarding the entrance and exit to the atrium, and from each spewed a tremendous searing jet of flame.  The breadth of the fireball was such that they could neither crawl beneath the flames nor jump or fly over them.  Kaeya didn’t hesitate; in a heartbeat, he launched a frozen jet of his own against the surface of the fire-spouting metal geyser.  Immediately, the fire ceased to rage and the path ahead cleared.  Aether and Paimon kept close to Kaeya as he cleared the second geyser of flame similarly to the first; neither Aether’s Anemo abilities nor Paimon’s food collection skills were going to get them out of these traps, if they were to fall behind.  They would simply have to rely on their Favonius companion.
+
+As they continued down the corridor, they arrived at one of the seemingly quintessential wind columns that they had ridden in previous temples.  Paimon took note of the convenient wind current, grateful to be past the searing flames of the traps from earlier.  “Ugh, finally... we're here.”
+
+Kaeya agreed.  “Seems the path ends here. Let's use the wind currents to fly up.”  This time Aether led the way, imitating Amber’s and Lisa’s confident flying that he had witnessed before.  Kaeya followed just behind, noting Aether’s remarkably prodigious skill with the glider.  “You’re not bad with that wind glider.  Your style, though, seems familiar…” His voice trailed off as he wondered aloud.
+
+The next room seemed to be an abandoned campsite or gathering place.  A scattering of torches lit the room, and the only object within was a stone similar to the Dragon’s Breath they had seen previously.  Aether leapt bravely into action, ready to impress Kaeya with his decisive swordsmanship.  Upon breaking the stone, however, he was greeted with an oddly familiar deluge of water that left him soaked and chilled to the bone.  Kaeya chortled quietly.  Paimon was suddenly struck with inspiration—a solution to the puzzle they had encountered (and admittedly already defeated) earlier.  “Water! We can use this to put out fire!”
+
+Kaeya grinned and replied with a sarcastically impressed tone.  “Good idea, that's some keen observation.  We should get Jean to give you a title and make you a knight.”  Paimon harumphed at his dig at her; Aether suddenly remembered a question he had wanted to ask Kaeya before.
+
+“That reminds me, why is Jean the Acting Grand Master?  And why isn’t she here helping us clear the Four Winds’ Temples?  Where is the Grand Master themselves?”
+
+“The Grand Master is currently off leading an expedition, so the Master, Jean, has stepped in to oversee the Knights while he’s gone.  Hence, you’ll hear many refer to her as the Acting Grand Master.  When Grand Master Varka left, he took the vast majority of our knights with him, leaving the Acting Grand Master with far more responsibility and stress.”  Kaeya paused, and another rare moment of emotion crept into his mannerisms.  “Come to think of it, it must have been difficult for Jean.
+“Speaking of, did you know?  Stormterror was once one of The Four Winds.  I'm not aware of the exact details, but if you're interested, you can ask the Acting Grand Master about it.”  Aether nodded; he had already spent some time digging through the book Lisa had given him yesterday, and Kaeya’s “new intel” wasn’t that much of a revelation to him.  Nevertheless, it felt good to have some sort of confirmation.  There was certainly more to the “Stormterror/Dvalin” situation than anyone was able to surmise.
+The party spent the next few minutes exploring the maze-like corridors of the Temple of the Wolf in silence.  At one point, they were forced to stop by a series of flooded spike traps.  Paimon could probably have floated over, but Aether was at a loss as to how he was supposed to leap the gap.  Kaeya rather casually solved the problem in an instant; one rush of ice and snow from his palm, and the spike-laden pools became whimsical skating ponds.  Kaeya slid across with ease (it was obviously not his first time “bridging” water with ice), and the Traveler made it across more or less the same, albeit with a bit more flailing of the arms.
+
+A narrow stairwell led up to what appeared to be the ultimate chamber in this temple.  Just as with the Temple of the Falcon and the Temple of the Lion before, this temple’s final destination was nothing more than an empty hall with the singular Dragon’s Breath stone laid to rest in the center of the room.  Kaeya spotted the stone and slowed to a cautious walk as he approached it; Paimon and Aether, having already dealt with this situation twice, were certainly not to be beaten to the punch this time.
+“Is that the thing that Stormterror is using to gain its power?” Paimon asked.  She was relatively certain that she knew the answer already, but she was curious just how thorough Kaeya’s intel was.
+“Seems probable. Let's deal with it,” he stated decisively.  Looks like Kaeya did his research, Aether wondered.  Or does he already know more than the rest—and more than he lets on?  Aether was certainly not going to hesitate this time; regardless of the stone’s power, origin, or meaning, it was destined to be fragmented into dust.
+
+One brief swing of his blade later, and dust was indeed all that remained.  Kaeya clapped a few times in rather suspiciously cynical admiration.  “Bravo! What a performance!  You are, to my surprise, a well-trained knight.  The battles you just fought were sights to behold.”
+
+Aether had already had quite enough of Kaeya’s false bonhomie, but at the same time, he couldn’t figure out a way to refute Kaeya’s superficial compliment.  “It’s not worth complimenting really,” he stated, trying to downplay his single sword swing.  Kaeya laughed rather roguishly and continued to ooze an almost-sinister charm.
+
+“Haha, I see you already have the knightly virtue of modesty.  Stories of your heroic deeds to save Mondstadt from destruction shall be known throughout the City of Freedom, well into the future.”  Paimon rolled her eyes so far back into her skull that, for a brief moment, Aether thought she might have died of disbelief and boredom.  Despite her dramatic behavior, Aether was also beginning to find Kaeya’s near-constant pandering and flattery rather in poor taste.  Kaeya continued, unabated.
+“Please do visit me at our headquarters when you have the time.  I also know a lovely tavern, if that's more your thing.”  Kaeya turned to face the spot where the Dragon’s Breath had stood moments ago.  He crossed his arms with a smug, haughty smile of satisfaction.  “Quite rewarding, no?”
+
+Paimon was extraordinarily eager to be free of his patronizing attitude, and answered quickly, “Yup, we've seized another temple from Stormterror's grasp!”  Aether allowed himself a satisfied smile, as well.  Three Temples, three Dragon’s Breath, and now no more.
+Kaeya nodded towards the way they had come.  “I can take care of the rest here. You go take care of other things while I'm at it.”  Aether wondered what “other things” must entail, but both he and Paimon were eager for a breath of less-ingratiating air, and Paimon immediately waved for their departure.
+
+“See you later then, bye-bye!”  With a nod of acknowledgment to Captain Kaeya, Aether turned and joined Paimon for the return trip back through the temple to where they had entered.  It seemed inconvenient to not have an exit corridor here, like the other temples had, but he supposed that not every Domain was going to be built for ease of entrance and exit.
+
+Kaeya watched the two travelers depart with a rigid, emotionless smile.  He gave one last wave, for appearances, before turning his head to glare at a disturbance he had sensed just over his shoulder.  All sense of flattery and etiquette dropped immediately, his one piercing blue eye glaring towards one of the columns in the room just behind him.  He nearly growled as he spoke.
+
+“There's no way hilichurls organized an ambush like this themselves — not with their limited mental capacity.”  Almost as if in answer to the unspoken question, a creature suddenly revealed themselves from behind the column.
+The being that appeared floated above the ground, as if suspended from the ceiling on strings.  A gloved hand grasped a glowing silver and blue staff of otherworldly design; at the tip of the staff rested a sky-blue gem, suspended in what appeared to be almost a snakelike mouth.  Kaeya could sense immediately that the crystal emanated elemental energy.
+
+The creature’s robes were intricately woven in shades of blue, black, and white.  What appeared to be a blue beard or tremendous fur mane flowed from behind a white, beaked mask.  The nature of the fur or hair reminded Kaeya of Hilichurls.  He was quickly able to put the facts together, and recalled some of his studies on Hilichurlian “society”—if you could even call a gathering of Hilichurls a “society.”  The creature before him was one of the societal “heads” of the Hilichurls- an Abyss Mage.  Judging by its staff and garb, it was likely a manipulator of the Hydro element.
+
+Kaeya spun to face the intruder.  “Thus you were behind this,” he accused sharply.
+
+The Hydro Abyss Mage spent no time in courteous introduction; he waved his staff and hands about, summoning a great mist of water about himself.  Ancient unknowable runes surrounded the mage as it chanted its incantation.  “Gohus, Chiso Vonph,” the creature babbled incoherently.  It seemed rather confident in having cornered its victim.  Unfortunately for the Abyss Mage, the victim was not to be Kaeya.
+
+Kaeya casually and deftly leaned out of the way as a swirl of flame and rush of hot wind surged over his shoulder, directly at the Abyss Mage.  Just as he made another step to the side, the ropes of flame fell to the floor, creating a hellish trail of fire from the entrance to the Abyss Mage’s feet; the mage visibly squirmed in discomfort at the presence of the inferno.
+
+The mage’s discomfort increased in a heartbeat as a figure appeared at the beginning of the fiery trail, rushing towards it with hands outstretched.  The mage could only think to react, unable to command its body in time.  A strong gloved hand grasped the mage’s mask firmly, as the red-headed challenger swung the Abyss Mage about in a circle.  The combatant released the mage a moment later, sending his prey tumbling across the floor.  The sound of broken bones and shattered cartilage was muted beneath the roar of flame following the invader.  Kaeya spared only a momentary glance to the newcomer as he rushed by to follow up his throw.
+
+The man who had so dramatically entered the room engulfed in flame was possessed of vivid red hair and ponytail, and burning orange-red eyes.  His charcoal gray high-collared overcoat fluttered behind the man as he dashed forward, his greatsword drawn at the ready.
+
+The Hydro Abyss Mage could barely collect its thoughts; it finished its tumble and attempted to rise to its feet.  Its ear-like appendages on top of its head laid back in apparent terror at the sight of the warrior closing the distance between them.  The tip of the man’s greatsword cast fiery sparks as it dragged along the ground behind him; a great gash opened in the stonework floor where the greatsword had cleaved it cleanly apart.  The sword rose sharply and suddenly, connecting squarely with its prey.
+
+The Abyss Mage tumbled upwards, thrown violently off its feet.  It was all it could do to keep a grasp of its Hydro staff.  Surely, if it could have but a moment to gather itself and summon another incantation…
+
+It would not be so fortunate.  The charcoal-clad challenger had leapt forwards, performing a full acrobatic somersault, sword tracing a fiery circle into the air.  The mage raised its staff to defend against the coming blow, but no such magical weapon would be able to deflect a strike from a greatsword as powerfully swung as the one the mage now faced.
+
+The staff gave way with a sickening, screeching shatter; shards of metal and crystal scattered about the room, and a jet of flame engulfed the falling Abyss Mage, cauterizing its wounds and opening others.  The mage’s body came to rest with a powerful thud against the column it had first appeared from.  There was no need for the sword-swinging fire wielder to check for signs of life… the grotesquely deformed body had certainly not survived either the strike of his blade, nor the heat of his flames.
+
+The man with the igneous carmine hair landed adroitly, sword outstretched; his untamed ponytail swung to a gentle rest between his shoulders as he turned to face Kaeya.  He spoke in a harsh, grating voice that reminded Kaeya of a gravel path, for some reason.  Disdain practically dripped from his tongue.  “Knights of Favonius... Always so inefficient.”
+
+Kaeya shrugged nonchalantly and clapped in flattering deference to the man’s combat abilities.  “Agree to disagree. But, your involvement in this just made things a whole lot more interesting.”
+
+
+Aether and Paimon finished their disorienting return to the great doors of the Domain’s entrance.  As they stepped outside, they could see the sickly green and gray stormclouds above Mondstadt City begin to dissipate in the distance.  Aether felt a rather surprisingly heavy feeling of relief at the apparent resolution to the crisis.  The adrenaline had already drained from his system during the walk back to the Domain entrance, but he could feel an exhaustion and a hunger replace the rush he had felt earlier.  Paimon was similarly relieved.
+
+“Phew, it's finally done,” she exhaled softly, finally beginning to relax.  “Well, all that ‘ley flow’ and ‘elemental lines’ stuff Lisa was going on about earlier should hopefully be back to normal now.  Wanna go back to the city and see how the Knights are doing?”
+
+Aether shared in the relief, but a nagging feeling of skepticism kept eating at him.  Perhaps it was instinct, or maybe even paranoia, but all he could do for now is grant Paimon the wish she had made before.  Paimon sensed his hesitation, and took it as a sign that he wanted to investigate further.
+
+“If you’ve got anything more interesting to do, Paimon can come too!  We obtained another Anemoculus in one of The Four Winds' temples, right?  We might come across more of them in the future, so don't forget to offer them to the Statues!”  She continued to ramble about potential activities when Aether finally interrupted her gently.
+
+“How about some Sticky Honey Roast and a moment to relax?” Aether offered.  Paimon’s eyes lit up like one of the Statues of Seven after a blessing.  She clapped her hands gleefully, and dashed her way down the path, away from the decrepit Thousand Winds Temple, and towards the comforts of a warm meal and pleasant company.
+
+### WQ: Welcome to the Adventurers’ Guild
+Mondstadt City stood calm and defiant in the face of the Stormterror crisis.  With the three Four Winds temples now denied their ability to empower Stormterror’s rampage, the storm clouds had dissipated, the winds had calmed, and the city had returned to some semblance of “business as usual.”  Aether and Paimon had enjoyed a leisurely walk back to Mondstadt, their hearts and minds lighter with the situation taking such a successful turn.
+
+They crossed the bridge back to the city gates sometime in the early afternoon.  A warm, caressing breeze lazily turned the windmills throughout the city, and past the gates the midday bustle of a busy market street could be heard.  The two travelers were about to enter Mondstadt, when Aether suddenly remembered that he had wanted to ask the two gate guards some questions about Mondstadt.  With any sense of urgency now gone, he could take the time to get to know the city, its people, and its enemies just a bit better.
+Aether approached the two gate guards, who stood flanking the great iron portcullis of the Southern Gate to the city.  The two guards straightened their posture and gave a casual salute to the Traveler and Paimon as they approached.  The guard on the left, a tall lad with messy brown hair, appeared to be in his mid-thirties.  He carried himself with a bit less decorum than his younger blond-haired, ponytailed partner, but he nevertheless gave Aether the impression of an experienced veteran Knight of Favonius.
+“Mondstadt welcomes you, Traveler.  Anything the Knights can do for you?” he asked politely.
+
+“Yes, actually,” Aether began with a brief nod of his head as a return greeting.  “I’m sorry I didn’t introduce myself sooner, but I’m Aether, and this is my traveling companion and guide, Paimon.”  Paimon took her cue to wave cheerfully to the two guards.  The younger guard seemed fascinated by Paimon’s appearance... and her ability to float.  Aether continued his introduction, “I wanted to know who the two of you were.  I’ve met several of the other Knights of Favonius, but they didn’t mention what role you play here.”
+
+The older and more experienced guard spoke first.  “Pleasure to meet you, strange yet respectable Traveler.  I'm Swan. I mostly perform sentry duty.  I also provide any necessary assistance to our business visitors in accordance with the Knights of Favonius Handbook.”
+
+Aether tilted his head slightly; he remembered that Amber had quoted from the handbook on first meeting him.  He also remembered that the book didn’t seem very practical in addressing strangers or outlanders such as himself.
+“Knights of Favonius Handbook?  You’re the second person to mention that to me,” Aether pointed out.  Swan nodded firmly, and his eyes sparkled a bit; apparently the handbook was more than just some pages on etiquette to him.  His partner, however, seemed not as taken by the handbook.
+
+Swan began to explain,  “Yes! The Knights of Favonius Handbook is our instructional guide, and also the cornerstone of peace and prosperity in Mondstadt…”  Paimon frowned skeptically, wondering how any such instructional manual would serve as the “cornerstone” of anything.  She interrupted Swan before he could begin diving too deep into the details of his favorite narrative work.
+
+“So, does it tell you about anywhere good to go in Mondstadt?”  Swan immediately stopped, his face flushed with a bit of embarrassment.  He couldn’t recall whether or not the detailed Knights of Favonius handbook had any such tourism advice, but he couldn’t let these travelers—dare he say, tourists—go unassisted, could he?
+
+Paimon’s eyes widened as Swan pulled out an incredibly thick yet tiny tome from a back pocket somewhere; how could someone bother to carry such an awkwardly dense volume around with them on guard duty?  The group stood in silence for nearly a minute as Swan rifled through the pages of the manual in mild panic.  The other guard stared off into the distance, obviously suffering from a pretty severe case of secondhand embarrassment.
+
+Swan suddenly looked up at the two travelers, and spoke with a rather grave intonation.  “I’m terribly sorry, I can't find anything at all about that in the Knights of Favonius Handbook.”  Aether stared at the man incredulously, almost surprised that he would even expect such a manual to have tourism guidance.  Paimon rolled her eyes melodramatically.
+
+Aether waved dismissively, hoping to partially relieve Swan’s humiliation.  “No, that’s fine, we can wander around and take a look ourselves.  I actually wanted to ask if you had any more information on Stormterror.”
+
+Swan’s expression flitted from joyfully assistive to one of terrified chagrin.
+
+“S-Stormterror? One moment, let me, uh, try to recall the Knights of Favonius Handbook,” he stuttered, refusing to open the pages of the book in his hand, for fear of exposing the handbook’s shortcomings to these rather sharp visitors to the City.  Paimon was not about to let him off the hook, though.
+
+“You could just look it up,” she said, squinting harshly at the sweating gate guard.  Swan refused to take the bait, and instead bowed apologetically.
+
+“I'm sorry, I don't remember anything in there that tells us what to do when facing giant dragons!”  Both Paimon and the Traveler rolled their eyes together, this time.  Swan decided to leap from the conversational frying pan and into the comforts of a nice, hot fire.  “Oh, but I do remember that it does mention how to deal with sudden threats!”
+
+Aether and Paimon held their breath in pseudo-anticipation.  Swan straightened up, stood tall, and proudly recited:  "When danger is imminent, please do not panic. Cover your head with both hands, and crouch down to protect your vital parts."  Aether just stood there awkwardly, mouth agape.  Paimon sneezed energetically, as though allergic to Swan’s increasing humiliation.  The other guard was completely turned away, at this point, definitely attempting to distance himself from his awkward colleague.  Swan’s embarrassment peaked at this point, and he looked straight at the ground as he meekly concluded, “I think I’ll do as this says…”
+
+“What about you?” Aether asked, his question directed at the guard facing away from them.  The blonde young man turned, a strong frustrated cringe crossing his face.  “Yes, Traveler?  What can I do for you?”
+
+“Well…” Aether’s voice trailed off as he waved his hands about in an attempt to realign the conversation with its original intentions.  This guard seemed a bit sharper, at least when it came to interacting with strangers, as he introduced himself confidently.
+“I’m Lawrence,” he began, “and I’m also one of the guards here at the Southern Gate.  I don’t have any additional information on Stormterror, but I can give you information on Mondstadt, if you so desire.”
+
+Paimon immediately perked up, having recovered from her momentary fit of embarrassment allergies.  Aether quickly blurted out his question before Paimon could begin inquiring about lodging and good places to see the sights.
+“Are there any interesting facts you know about Mondstadt?” he asked.
+
+Lawrence smiled with even greater confidence, while his colleague continued to shrivel in his misery.  “You've come to the right person.  Known as both "The Crown of the North," and "The City of Pastoral Song," there are no words that can truly describe the beauty of this city.  A new bard arrived here not long ago. You should seek him out if you’d like to experience the true essence of Mondstadt.”  This last piece of information was directed at Paimon’s previous question about things to see or do.  Lawrence didn’t seem that confident in his recommendation, however, and said hesitatingly, “but the songs he plays are... a bit archaic?  Some of them date back thousands of years; I’ve no clue as to how he knows them.”
+
+Aether once more attempted to eke out some intelligence on the Stormterror crisis.  “Okay, what about legends?  Are there any about Mondstadt that you know?”
+
+Lawrence nodded assuredly.  “It's said in Mondstadt, a righteous hero often appears at night, but no one knows his true identity.”  Lawrence appeared to be a fan of this night-going hero, but he caught himself before he “Swan’d” himself into similar embarrassment.  “I should stop there, though, or else I'll keep talking about him. If the Acting Grand Master catches me chatting on duty again, well… it won’t go well for me.”
+
+“Okay, one final question, then,” Aether stated, trying to steer the conversation towards Stormterror in a last-ditch attempt to pry useful information from these two talkative, yet oddly uninformed guards.  “Have you seen anything unusual lately?  Any strange observations or anecdotes?”
+
+“Anecdotes...?” Lawrence paused and lifted a hand to his chin as he thought for a moment.  “I’m not sure if this counts as one, but sometimes, when I'm on my shift here, I'll notice the weather change very suddenly.  Um, rather than a natural phenomenon, it feels more like someone is manipulating the weather. But who has that much power to do that?  Even the higher-ranking knights in the Knights of Favonius don't seem to have the ability to do that. How strange.”
+
+Finally, some relevant information.  Unfortunately, Aether had already connected the dots and assumed that the storm earlier was the result of Stormterror’s rampage.  After all, the word “storm” was even in its nickname—fair to assume that “Stormterror” would be capable of summoning “storms” or other unusual weather.
+
+There didn’t seem to be much point in inquiring further, so Aether politely dismissed himself and Paimon from the admittedly awkward conversation.  Swan attempted to compensate for the awkwardness slightly with a cheerful send-off.  “May Barbatos and his gentle wind protect you!”  Aether and Paimon could only bow their heads momentarily in gratitude, and then walk rather quickly through the Southern Gate.
+
+Just inside the gate, they arrived at the Mondstadt market once more, the many stalls and shops lining the avenue filled with the bustle of the midday rush.  Movement from the west side of the ascending central path caught Paimon’s attention.
+
+“Hey, Aether, there's a lady over there waving to you.  Let's go and see what she wants.”  Aether nodded his agreement and joined Paimon in a brief diversion to a small, semicircular kiosk built into the side of one of the many blocks of flats.  Within it stood a young woman, dressed in a humble green-and-white dress that resembled the uniform they had seen Lynn wearing in the wilderness yesterday.
+
+From the kiosk’s roof hung a series of purple banners emblazoned with a grand, intricate golden emblem.  A rather large two-meter diameter wooden crest graced the center edge of the low-hanging roof above the kiosk; it too, was embossed with a golden insignia.  Despite the kiosk’s humble makeup and stature, it seemed to belong to a rather official organization.  Upon seeing the two travelers approach, the young woman removed all doubt as to the ownership of the kiosk.
+
+“Greetings, Travelers, I am Katheryne.  Welcome to the Adventurers' Guild. Actually, I have had my eye on you for a long time.”  Paimon placed her hands on her hips rebelliously.
+
+“You've had your eye on Aether, eh? Has he been causing some sort of mischief?”  Aether glared daggers at Paimon, and made a mental note to himself to never involve Paimon on any heist or mischief; she was sure to squeal.  Katheryne chuckled good-naturedly.
+“Oh, that is not what I meant at all. Being on the lookout for great adventurers is part of my job.  When I look at you, I see one with the potential to rival the great adventurers of legends.”  Aether grinned at the compliment, and Paimon accepted it on his behalf.
+
+“Paimon sees it too.  Paimon always feels safe adventuring with Aether.”
+
+Katheryne nodded her understanding and agreement.  “Nevertheless, to the adventurer, experience is far more precious than potential.  You must achieve as much experience adventuring as possible, in order to gain the attention and approval of the Adventurer’s Guild.  Time is of the essence.  Allow me to brief you on—”  Paimon interrupted Katheryne’s spiel in her surprise.
+
+“Wait! Are you saying we're like, official adventurers now?  Wait, does that mean you expect something of us, now, too?”  Paimon’s enthusiasm was immediately dampened by the thought of having to do a great many fetch quests for unappreciative civilians who needed their vegetables delivered or their cats rescued.
+
+Katheryne waved away Paimon’s concerns nonchalantly.  “Do not worry, the Adventurers' Guild does not charge a membership fee or impose any kind of duties on its members.  In short, there are a lot of benefits but no drawbacks to becoming a member.”
+
+Aether nodded as Katheryne spoke, and held out a hand in acceptance of his new role as an “Adventurer”.  “Alright then, are there any benefits I can claim now?” he asked.  Paimon was proud; she would turn the Traveler into a proper treasure hunter yet.
+
+Katheryne laughed a bit nervously.  “Haha... New recruits these days certainly do not beat around the bush.  Yes, essentially, the Adventurers' Guild rewards you every time you gain its recognition.  Here is a new members' gift for you. You will need to return here to claim rewards in the future.  Without further ado, please allow me to officially welcome you, our new avid adventurer, into the Guild!  Here is your Adventurer Handbook.”
+
+Aether recalled the Knights of Favonius Handbook that Swan had so devastatingly misused earlier.  “They have a handbook for that now?” he asked skeptically.
+
+“A new member coming aboard is a momentous occasion! A little ceremony is only fair,” Katheryne pointed out.
+
+“Sure, but this looks more like a marketing pamphlet,” Aether countered.
+
+“It is, in a way. But it has some practical uses too,” Katheryne stated defensively.  “It has a record of available commissions and rewards, and it is also proof of your membership.  Oh, and one more thing.  Sometimes, you will find yourself unable to accept some of the quests sent to you by the Guild.  When this happens, you need to perform some impressive feats to gain further recognition from the Guild.”
+
+Aether and Paimon frowned simultaneously.  Paimon’s view of the situation was quite a bit dimmer than Aether’s.  “Impressive feats? Sounds like hazing to me,” she groaned.
+
+Katheryne smiled with closed eyes and a slightly tight grin; she was used to folks not understanding their role with the Guild during their early days.  She was sure that these two would not turn down the opportunity, though, and continued explaining.  “They are simply specific adventures that allow you to ascend to the next ‘rank,’ so to speak, on completion. Ascension adventures, if you wish to give it a proper name.  But that will come later. Opportunities to win recognition will come as you gain more experience adventuring out in the wilds.”
+
+Katheryne had been holding the Adventurer’s Handbook this entire time in an outstretched hand.  She flinched, wondering if the Traveler would turn down her offer; to her relief, Aether reached out and placed the handbook into his traveling bag.  She decided not to trouble the pair any further.
+
+“That will do for today. We will have plenty of chances to meet again in the future.  Ad astra abyssosque, Adventurer! With effort, you shall reach the stars and conquer the Abyss!”
+
+Aether and Paimon waved as they departed, exchanging blank looks of confusion privately as they returned to the city entrance plaza just below the Guild kiosk.  They weren’t sure if they should be thrilled or devastated at having been recruited into the Adventurers’ Guild’s ranks.  Only time, effort, and a few obsequious rewards could tell.
+
+### WQ: Sharpening the Axe Won’t Hinder the Work
+As the shadows of the flats surrounding the market streets lengthened into the afternoon, Paimon and Aether discussed their plans for a meal and well-deserved rest.  At no point had Aether received any updates on the whereabouts of his sister; and his investigation had been completely stonewalled by his sudden conscription into the service of the Mondstadt Knights of Favonius.
+
+To be fair, they seemed to be reliable allies in a pinch, and having them owe him a favor could be useful later.  For now, though, it was important that he reset his focus, and start digging up information on his sister’s kidnapping.  Paimon adeptly read this thoughts.
+
+“From now on, our adventures are going to get more and more dangerous, so let's prepare first.”  She paused, looking up and down the market streets, searching for something in particular.  After a moment, she spun round, having found what she was looking for.  “We could start by going to Mondstadt's blacksmith.”
+
+Paimon was right.  Up until now, Aether had been fighting with the blade he had acquired upon waking on this continent.  It was a meager apprentice’s blade, dull from overuse and chipped from inadequate swings at more durable targets.  Aether was struggling to determine whether his lack of combat success should be credited to his declining skills, or to his rudimentary and rather inelegant weapon.  Perhaps a visit to a local forging expert would yield a better weapon, and thus fewer excuses for poor results in combat.  Extra training wouldn’t go amiss, either.
+
+Paimon led the way down one of the narrow frontage streets that hugged the walls of Mondstadt.  They passed by one of Helen’s daily performances from her balcony, and soon the sound of a hammer against metal drowned out the dulcet tones of the lyre and song.  Paimon interrupted the noise and exclaimed, “There's the blacksmith!”
+
+Aether turned to his left to see a rather spartan, unroofed structure.  The blacksmith’s shop consisted of a small tiled roof, held up by four plastered columns.  The roof and ceiling sloped up from a cobblestone forge and accompanying steel anvil located in the center of the shop.  A second, smaller anvil sat unoccupied in one of the shop’s corners, flanked with metalworking tools.  A selection of weapons sat in rows against a display rack, and a wide selection of metal and clay containers and utensils dotted the disorganized shelves.  This was certainly a hometown shop, but that didn’t mean the work would be any less high quality.
+
+Aether approached the shop, staring up at the simple yet effective sign hanging from an iron post- “Schulz’s Blacksmith.”  The blacksmith manning the shop was busy working a metal billet on the anvil, hammering away rhythmically.  Almost as if he had a sixth sense, he glanced up and caught Aether staring at the sign.  He spoke roughly, but his voice carried a certain sagacity and experience that identified him as the owner of the shop.
+
+“What?”
+
+Aether was taken aback by the rather curt greeting.  He decided to exchange some pleasantries before getting down to business.  “Schulz, I assume?” he asked politely, offering a hand to shake.  Blacksmiths were good, honest folk; surely a cheerful introduction and a firm handshake would charm the man.
+
+“No.  Wagner.”  The man continued working the billet, not looking up as he spoke.  So much for pleasantries.  Straight to business, then, Aether thought.
+
+“I'm looking for a new weapon.  Mine is… well, it’s not ideal,” he offered, hoping to get a brief bit of advice from Wagner.
+
+The metalworker grunted and replied,  “Over there. Take your pick. Or, if you need something else I can make it on request.”
+
+Paimon seemed impressed at the potential.  “Wow, he does bespoke weaponry!”  For the first time since they had approached the shop, the man seemed proud, and even gave a wry smile.
+
+“Of course. I sell weapons, make them to order, and do refinements. All in the job description for a blacksmith.  All you need is the ore.”  Ah, yes, ore.  Aether had picked up a few pieces of shorn metal from the various cliffs he had passed during his adventures over the past day or so.  He had even been so lucky as to pull a few out of containers and crates dotted around the Hilichurl camps.  However, he didn’t imagine that the quality of the ore would be up to Wagner’s standards, and certainly wouldn’t be enough of a quantity to yield a decent weapon.  He was going to need more.
+
+“Where can I get ore from?” he asked.  Paimon had been drawing out a rough map of Mondstadt as they had traveled, but he hadn’t noticed any particular veins, mines, or other easy-to-access mining locations.  Perhaps there had been a few deposits he had overlooked in his lack of familiarity with the region?
+
+Wagner seemed annoyed at the question.  “Anywhere, everywhere,” he grumbled.  Paimon frowned at the rather curt answer.
+
+“Do you sell it here?” she asked innocently.
+
+“No. Buy from someone else, if you must, but I barely have enough for myself.” Wagner frustratingly realized he had stopped hammering and was pressuring his hammer into the soft red-hot metal that he had been working on.  This piece had taken him several hours today already; with the great dent pressed into the surface he was going to have to redouble his efforts to correct the mistake.
+
+Wagner sighed and set the hammer aside, grabbing tongs to quench the unfinished billet into a nearby bucket of water.  As the steam from the work in progress rose from the bucket, he softened his tone and said,  “You look confused. Listen, I'll tell you where the nearest deposits are; I’ll even mark some spots for you on a map, if you’ve got a decent one.  Bring some of that ore back and I'll help you forge what you need.”
+
+Aether and Paimon both perked up, and Paimon summoned a rather gratuitously large map scroll from her backpack.  Her tiny hands could barely manage to grip the rather large cartography scroll she had been working on.  Wagner took it from her and used a grease pencil to mark out a few locations that he recognized.  “Recognized” may have been a strong word; much of the map looked like the doodles of a small child.
+
+Aether thanked Wagner for his kindness.  Wagner held up a hand to dismiss the gratitude.  “No need. Now if you’ll let me get back to it, I have other things to do.”  He picked up the now-cooled, deformed billet from the bucket and slung it onto a nearby table where it would await its date with the forge for reheating.
+
+Paimon and Aether took a few steps away from the shop to discuss their next steps.  Paimon hazarded a rather cautious look over her shoulder; she could see that Wagner was busy reheating the billet for another round of shaping.  “He seems like a short-tempered guy... Was it something we said?”  Aether shrugged, then suddenly remembered.
+
+“Paimon, do you have those chunks of metal we found in the Hilichurl camp?”
+
+Paimon tilted her head at him quizzically, doing her best to remember the contents of her seemingly bottomless inventory.  “You mean the one we cleared with Amber?” she confirmed.  Aether nodded.
+
+“Yeah, those.  Can you pull those out?  We can give those to Wagner, find out what they are, and see if he can make us something useful.  Maybe even a sword for you!”
+
+“You want Paimon fighting on the frontlines, now?” she asked with a terrified look, shaking her head vigorously.  “No thanks, Paimon isn’t much of a fighter.  Besides, I left a lot of the really heavy stuff we found back in our room.”  Aether grimaced a bit, but had to admit that the adventuring logic was sound.  Paimon offered to return to their room to retrieve the ore, and Aether accepted.  A few minutes (or perhaps closer to half an hour) later, and Paimon returned surprisingly out of breath, holding an armful of ore chunks.
+
+“These are so heeeeaaavyyyyyy,” she grunted laboriously, gasping for air.  Aether apologized for asking her to make such an effort, and took the chunks from her as quick as he could.  Paimon wiped her now-dirty hands on a nearby kiosk’s hanging banner sign.  The shopkeeper gave the pair a harsh glance of disapproval.  The two simply smiled sheepishly before walking back to the Schulz smithy.
+
+Wagner caught sight of the two travelers approaching, and preemptively quenched his work and laid it on the table.  He wasn’t ruining his progress this time.  He sighed in anticipation.
+
+“What do you want?” he inquired gruffly.  Aether merely smiled and dropped the armful of iron ore chunks onto the table.  Tools and finished products alike rattled from the sudden weight shaking the work surface.  Wagner seemed to be drawing a blank.
+
+Aether explained patiently, “Remember?  You sent me to get iron chunks not that long ago.”  Wagner’s eyes lit up in recall.  He shrugged, just a bit embarrassed.  Strong memories work for book keepers, not metal workers.  Right?
+
+“Oh. Yes. I'd forgotten about that.”  Wagner picked up one of the chunks, giving it a once-over before tilting his head side-to-side in skeptical approval.  “These are okay, I guess; should be able to salvage something from them.”  Aether and Paimon glanced at each other, pleased to have done something useful to progress their adventure.  Wagner continued, “As and when you find ore in the future, you can always come and see me to have it purified and worked.  Ideally, when I'm not so busy.”
+
+Paimon crossed her arms and did her best impression of an angry, entitled customer.  “Hmph, well you seem to be in a bad mood,” she pointed out harshly.  Wagner ignored the jab and motioned over to the dented billet he had damaged earlier due to his carelessness.
+“Look, a blacksmith's work takes focus and concentration. It does not take small talk with costumers.  When the craft is good, business is good. That's all there is to this trade, and anyone who tells you different is trying to con you.  If there's nothing else, I'll carry on with my work.  I’ll keep your ore here until you figure out what you’d like to do with it.  Take a look at my selection of weaponry on the rack over there and get back to me once you’ve decided.”  He used his hammer to once again point out a rack of gleaming steel swords in the corner next to the table filled with idle tools and implements, behind which stood a muscular young man in apprentice’s attire.
+
+Paimon and Aether took several steps to the side, browsing a few other forged weapons and armor pieces as they made their way to the sword rack.
+
+Paimon interrupted the sudden awkward silence.  “He's certainly committed to his work, Paimon'll give him that.  His temper isn't great, but leave it to him and he'll be able to forge what you need.”  Aether didn’t respond; his eyes were fastened to one sword in particular leaning against the rack they were approaching.
+
+The young man behind the table turned to fully face them and asked helpfully,  “Looking to buy a weapon?  You should talk to Wagner over at the anvil.”  Aether and Paimon exchanged knowing looks tainted with a bit of unease.
+
+“Oh, uh, Wagner, yeah, about him…” Aether mumbled, feeling a bit put on the spot after his recent lecture from the blacksmith.  The smithing apprentice smiled gently, his eyes radiating compassion and understanding.  He certainly carried a more “customer-facing” air than did his master.
+
+“Ah, so you’ve already spoken to him then.  Bit curt, eh?  I’d be hard-pressed to find a better mentor, though.  Just look at the weapons he makes—a true testament to how hard he works.”  Aether had to admit that all of the weapons leaning against the rack were of excellent make.  Agonizingly sharp edges met fiercely honed points, and the intricately-engraved blades gleamed in the late afternoon sunlight.  The apprentice continued his evaluation of his master.  “As long as there’s mutual respect between us, I can’t ask for more.  To be honest, I think Master would get lonely without me here.  Last time I took a trip back home, for example…”  He had started to ramble, and caught himself with an embarrassed grin.
+
+“Actually, never mind.  Yeah, let’s not bring that one up with him.  Anyway, I’m Wagner’s apprentice.  The name’s Schulz.  Master Wagner’s work is pure perfection.  I never tire of watching him work.”  Here he pointed to the table filled with smaller and admittedly lower-quality tools on the table in front of him.  “I usually help him out with odd jobs on the shop floor.  Getting some downtime, where I can just watch him work his magic, is reward enough for me.”
+
+Aether glanced approvingly over the blades on offer.  Schulz was definitely easier to talk to, and seemed to have a heart for the work and a great attitude, to boot.  What a promising combination!  Aether pointed to the rack of swords.
+
+“Any of your own masterpieces to show me?”  Schulz’s smile faded a bit, and he humbly replied, “Well, I have tried, but the results are usually less than perfect.  Master normally melts them back down again and then reuses them as billets for his own creations.  There was this one I was quite proud of, but master wouldn’t let me sell it from his shop… said it’d damage his reputation.”  Schulz’s voice trailed off as he stared into the distance, fondly remembering.
+
+He suddenly came to, abruptly saying, “So I took it out the side gate and gave it a few swings.  Ended up sticking it in the ground there, actually.  There’s a group of kids who hang out over there, seems to have got them interested…  Anyway, I digress.”  Aether couldn’t help but stare in disbelief, surprised that Schulz would discard his greatest potential work. 
+
+“Well, anything else in the works, then?”  Aether asked, trying to dig for more information- and potentially a cheap discount blade.
+
+Schulz nodded and stated, “Herman wants a sword for his daughter.  I hear him talking about it all the time.  He can’t afford one of Wagner’s, so I figured I’d make one for him myself, for free.”  Aether’s attention piqued at the word free.  “I wouldn’t call it an act of charity, it’s not like my work is worth anything anyway.”
+
+Aether and Paimon appeared uncomfortable with Schulz’s self-deprecating attitude.  Surely his work couldn’t be that poor, right?  Aether pressed him a bit more.  “What about your most recent forged blades?  Are they worthy of battle?  Any blade that can serve dutifully in a fight is a fine enough blade to sell, I’d think.”
+
+Schulz’s spirits suddenly lifted at the compliment and encouragement.  He hesitated, then turned to the forge behind him, beside which stood a mahogany wardrobe.  He opened the doors, revealing a blade resting inside.  He pulled the sword out and turned back to Aether, his voice softer, hesitant, and humble.
+
+“I am far from perfecting my craft,” he said, “but this blade is better than the ones I’ve made before.  I still don’t think it’s sharp enough, though.”  Schulz laid the gleaming red-and-black sword on the table.  It’s shape was unsurprisingly quite typical, with a fine rapier blade and a traditional cross-shaped crimson hilt.
+
+“I christened it the ‘Traveler’s Handy Sword’,” he explained.  “It’s not a full-tang sword like the others on display that Wagner has made, so keep in mind that it isn’t as durable in combat.  However, I’ve included a few things you might find useful.”  He pulled out a magnifying glass from the hilt, attached to the star-shaped pommel at the base of the hilt.  He also pulled a flint and tinder from one side of the hilt and a small set of shears from the other.  Nested cleverly into the magnifying glass pommel/handle was a hidden, narrow dagger.  “See?  I figure these are the sorts of things a traveler might want with them on an adventure.  It’s not a blade designed for combat, but it should serve well to protect you.  Besides, I cannot give this to Herman…”  He dazed off into the distance again, lost in admiring thoughts.  “I must forge a far better sword, one deemed worthy of Mr. Herman’s kindness.”
+
+Aether was sold.  Even if it didn’t fit the typical expectations of a warrior’s most trusted weapon, it certainly would prove useful on their adventures, as Paimon had originally theorized before visiting the Schulz smithy.  He pulled a generous helping of Mora from his bag, but Schulz waved his hands vigorously in refusal.  It had to be a gift, he said, otherwise Wagner would take it out of his paycheck for giving a customer an “inferior” weapon.
+
+Time, distance, and a few target dummies would prove whether the weapon was inferior or not; as would they the Traveler’s determination to find his sister.
